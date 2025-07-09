@@ -39,5 +39,7 @@ A simple, fully client-side to-do list web application built with **HTML**, **CS
 
 ## 🛠️ Setup Instructions
 
-### 📥 Clone or Download
-Download the three files into a single directory:
+### 💻 How to Run Locally
+Clone the repository:
+git clone https://github.com/your-username/To-do-app.git
+
