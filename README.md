@@ -2,8 +2,6 @@
 
 A simple, fully client-side to-do list web application built with **HTML**, **CSS**, and **JavaScript**. This app allows users to **sign up**, **log in**, **manage tasks**, and **log out** — all without a backend. It uses `localStorage` for persisting user data and tasks.
 
-> ⚠️ **Note**: This app is for educational/demo purposes only. Do not use real passwords or sensitive information.
-
 ---
 
 ## 🌟 Features
